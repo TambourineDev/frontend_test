@@ -2,7 +2,7 @@
 
 Hi!
 
-This is a small test to check some tech skills and knowledge you require to have in order to be part of tambourine!
+This is a small project to check some code skills and web knowledge you require to have in order to be part of our team!
 Hopefully it shouldn't take longer than 5 hours.
 
 Good luck! :)
@@ -14,15 +14,16 @@ Good luck! :)
 - HTML should be semantic (accessibility knowledge).
 - Animations should be present.
 - If a form is avalable, please require all fields and prevent reloading page when submitting form.
-- If slider is available you are free to use any library / create you own. Please make sure animations are smooth.
-- Be carefull with the details -> fonts, padding.
+- If an slider is available you are free to use any library / create you own.
+- If menu is available please add a scroll animation to the footer.
+- Details are important for us!!!
 ```
 
 ## Fonts
 
 ```
-- Lato: different weights from google fonts
-- Attached Avenir
+- Lato: from google fonts (multiple wieghts)
+- Avenir: available in files
 ```
 
 
