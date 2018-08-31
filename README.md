@@ -1,6 +1,4 @@
-# Frontend Project 2 Semester
-
-Hi!
+# Frontend Project
 
 This is a small project to check some code skills and web knowledge you require to have in order to be part of our team!
 Hopefully it shouldn't take longer than 5 hours.
